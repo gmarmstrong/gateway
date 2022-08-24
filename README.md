@@ -1,5 +1,7 @@
 # gateway
 
+**NOTE:** This is a continuation of, but to be confused with, [weatherapi-gateway](https://github.com/gmarmstrong/weatherapi-gateway).
+
 Docker image for a simple API gateway implemented as an nginx reverse proxy.
 
 **This project is for educational purposes only.** Do not use in production. For
